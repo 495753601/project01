@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL - hl-fhy-dev@118.178.194.220" uuid="2eb5349e-c925-4883-9426-dc62dcfe06d0">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://118.178.194.220:3306/hl-fhy-dev</jdbc-url>
+    </data-source>
+  </component>
+</project>
